@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-hello-world"
+  site-url: "https://xavier-brulin.github.io/nbdev-hello-world"
+  description: "Hands on nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/xavier-brulin/nbdev-hello-world"
